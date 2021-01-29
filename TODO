@@ -1,0 +1,9 @@
+TODO
+====
+1. What about Indent::_flush_tmp()
+2. Better detection of things.
+3. Better abstraction between Indent and Indent::ANSIColor?
+4.
+
+Applied
+=======
