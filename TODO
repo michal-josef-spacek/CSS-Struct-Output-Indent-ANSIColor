@@ -3,7 +3,9 @@ TODO
 1. What about Indent::_flush_tmp()
 2. Better detection of things.
 3. Better abstraction between Indent and Indent::ANSIColor?
-4.
+4. Support ::before
+5. Support of hsl(0, 0%, 83%)
+6.
 
 Applied
 =======
