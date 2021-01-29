@@ -307,9 +307,12 @@ Returns undef.
  print "\n";
 
  # Output (in colors):
- # selector#id, div div, .class {
+ # /* Nice selector. */
+ # @import "file.css";
+ # selector#id, div div, .class, p.class {
  #         weight: 100px;
  #         font-size: 10em;
+ #         --border-color: hsl(0, 0%, 83%);
  # }
 
 =head1 DEPENDENCIES
