@@ -23,7 +23,7 @@ our $CSS_DEFINITION_KEY_PREFIX = 'blue';
 our $CSS_DEFINITION_VALUE_NUMBER = 'red';
 our $CSS_DEFINITION_VALUE_STRING = 'blue';
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 # At-rules.
 sub _put_at_rules {
@@ -361,6 +361,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.01
+0.02
 
 =cut
