@@ -136,6 +136,9 @@ SEE ALSO
     CSS::Struct::Output::Indent
         Indent printing 'CSS::Struct' structure to CSS code.
 
+    CSS::Struct::Output::Structure
+        Structure class for 'CSS::Struct' output.
+
 REPOSITORY
     <https://github.com/michal-josef-spacek/CSS-Struct-Output-Indent-ANSICol
     or>
