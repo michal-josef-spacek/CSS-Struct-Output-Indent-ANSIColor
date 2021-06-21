@@ -1,5 +1,6 @@
 0.02
  - Add CSS::Struct::Output::Structure to SEE ALSO section in doc.
+ - Add test for constructor.
  - Fix name of module in META.yml and others.
  - Rename variable name to better name (sync with CSS::Struct::Output).
 
