@@ -1,5 +1,6 @@
 0.02
  - Fix name of module in META.yml and others.
+ - Rename variable name to better name (sync with CSS::Struct::Output).
 
 0.01 2021-01-29T01:20:58+01:00
  - First version.
